@@ -1773,6 +1773,11 @@ select:-internal-autofill-selected {
 }
 
 @media screen and (max-width: 576px) {
+	.slider-title {
+		font-size: 22px;
+		margin-bottom: 5px;
+		line-height: 35px;
+	}
 
 	.footer-bottom .text-left,
 	.footer-bottom .list-inline {
